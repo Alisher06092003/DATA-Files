@@ -93,3 +93,9 @@ form
 }
 
 
+.input-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
