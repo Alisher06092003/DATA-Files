@@ -12,3 +12,15 @@ body {
     align-items: center;
 }
 
+/* header qismi boshlandi */
+header {
+    width: 28%;
+    height: 70vh;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px 1px rgb(190, 190, 190);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
