@@ -81,3 +81,15 @@ header {
     color: #8c8c8c;
 }
 
+.orlogin div
+{
+    width: 28%;
+    box-shadow: 0 0 0 0.1px #606060; 
+}
+
+form 
+{
+    margin-top: 1rem;
+}
+
+
