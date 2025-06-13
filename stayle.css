@@ -24,3 +24,19 @@ header {
     align-items: center;
 }
 
+.box {
+    width: 80%;
+    height: 90%;
+}
+
+.box .text {
+    text-align: center;
+}
+
+.box .text h2 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
